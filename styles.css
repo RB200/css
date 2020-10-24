@@ -1,0 +1,27 @@
+h1{
+    color:dodgerblue;
+}
+h2,p {
+    text-align:center
+}
+    
+
+ /* {
+    border:solid;
+}
+*/
+.header {
+    background-color: rgb(84, 225, 65);
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer {
+    display:flex;
+    justify-content:flex-end;
+}
